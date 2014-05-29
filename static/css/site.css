@@ -27,20 +27,26 @@ h1 {
 
 ul.nav {
 	float: left;
+	width: 150px;
 	list-style-type: none;
 	padding-left: 0;
 	margin-left: 0;
+	border: 2px solid black;
+	border-radius: 8px;
+	background: #053C75;
 }
 
 ul.nav a {
 	display: block;
 	color: #017EB3;
 	font-size: 24px;
+	padding: 3px;
 }
 
 /* ============ Content ============ */
 
 #content {
+	margin: auto;
 	width: 1200px;
 	background: #FFF;
 	border: 2px solid black;
