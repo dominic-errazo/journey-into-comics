@@ -23,6 +23,14 @@ h1 {
 	text-align: center;
 }
 
+#header a {
+	text-decoration: none;
+}
+
+#header a:visited {
+	color: #107EB3;
+}
+
 /* ============ Navbar ============ */
 
 ul.nav {
@@ -41,6 +49,29 @@ ul.nav a {
 	color: #017EB3;
 	font-size: 24px;
 	padding: 3px;
+}
+/* ============ Main Page: Article List Styling ============ */
+
+.articlepreview {
+	text-align: left;
+	border: 1px solid black;
+}
+
+.articlepreview h3 {
+	padding: none;
+	text-decoration: none;
+}
+
+.articlepreview h4 {
+	padding: none;
+}
+
+#content p.blurb {
+	padding: none;
+}
+
+.articlepreview a:visited {
+	text-decoration: none;
 }
 
 /* ============ Content ============ */
@@ -62,7 +93,7 @@ ul.nav a {
 	padding: 30px;
 }
 
-#content p {
+#content p.articletext {
 	text-align: left;
 	padding: 30px;
 }
@@ -79,3 +110,4 @@ ul.nav a {
 	margin: auto;
 	
 }
+
