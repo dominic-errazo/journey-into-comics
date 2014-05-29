@@ -1,0 +1,75 @@
+body {
+	background: #032B5C;
+}
+
+h1, a {
+	font-family: 'Unique';
+}
+
+h1 {
+	font-size: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #107EB3;
+}
+
+#header {
+	border: 2px solid black;
+	border-radius: 8px;
+	background: #053C75;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+/* ============ Navbar ============ */
+
+ul.nav {
+	float: left;
+	list-style-type: none;
+	padding-left: 0;
+	margin-left: 0;
+}
+
+ul.nav a {
+	display: block;
+	color: #017EB3;
+	font-size: 24px;
+}
+
+/* ============ Content ============ */
+
+#content {
+	width: 1200px;
+	background: #FFF;
+	border: 2px solid black;
+	border-radius: 10px;
+	font-family: 'Pfennig';
+	text-align: center;
+}
+
+#content h2 {
+	color: #032B5C;
+	font-size: 40px;
+	margin: auto;
+	padding: 30px;
+}
+
+#content p {
+	text-align: left;
+	padding: 30px;
+}
+
+
+#dummybanner {
+	width: 800px;
+	height: 200px;
+	vertical-align: middle;
+	border: 2px solid black;
+	background: #017EB3;
+	color: #FFF;
+	text-align: center;
+	margin: auto;
+	
+}

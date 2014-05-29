@@ -1,0 +1,21 @@
+THE iLLuminati COMICS SITE: Journey Into Comics
+
+
+kmb:
+simplistic layout, comics, comic-related stuff
+
+News
+Interviews
+Reviews
+Solicitations
+Video Games
+TV/Movies News
+Events (for various cities)
+
+fuck forums
+
+things to remember: XSS protection in comments
+validate comments
+
+"user-friendly site"
+have embedded pictures and video
